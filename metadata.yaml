@@ -5,6 +5,9 @@ contributor:
     agent_name: Davidson, Bertha G.
     gutenberg_agent_id: '35728'
     url: http://www.gutenberg.org/2009/agents/35728
+covers:
+- cover_type: archival
+  image_path: 74313-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Shirley, Penn
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '57271'
     url: http://www.gutenberg.org/2009/agents/57271
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74313#The-Merry-Five
 gutenberg_issued: '2024-08-25'
 gutenberg_type: Text
 identifiers:
